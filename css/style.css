@@ -1,0 +1,4 @@
+#results {
+    white-space: pre-line;
+}
+/* fixes issue of html not recognizing new line "\n" */
